@@ -1,4 +1,4 @@
-<img src="bioinfo.jpg" width="150" height="250">
+<img src="bioinfo.jpg" width="200" height="250">
 ## **自我介绍**
 姓名：吴泽钊  
 年龄：18岁  
