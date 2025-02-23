@@ -1,4 +1,4 @@
-![吴泽钊 生32](https://github.dev/wuzz23/webpage_wzz/blob/main/bioinfo.jpg)
+![吴泽钊 生32](bioinfo.jpg)
 ## **自我介绍**
 姓名：吴泽钊  
 年龄：18岁  
