@@ -22,7 +22,7 @@
     **Practice!!!!**  
 * **5-12周**：熟练使用R语言分析生物数据  
     认识基因组学、转录组学  
-    **practice!!!!**  
+    **Practice!!!!**  
 * **13-16周**：AI与机器学习  
     阅读python与机器学习相关的书籍，keep learning  
-**All in all，keep practicing and learning!**  
+### **All in all，keep practicing and learning!**  
